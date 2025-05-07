@@ -28,9 +28,9 @@
 
 ## 📊 GitHub Stats
 
-![Nanang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nanangard&show_icons=true&theme=radical)
+![Nanang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nanangarr&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nanangard&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nanangarr&layout=compact&theme=radical)
 
 ---
 
