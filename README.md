@@ -7,8 +7,8 @@
 ---
 
 ## 🌐 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nanang-ard/)  
-[Email me](mailto:ardiansyahnanang984@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nanang-ard/)    
+[Email me](mailto:ardiansyahnanang984@gmail.com),     
 [Portofolio](https://portofolio-nanang.vercel.app/).
 ---
 
