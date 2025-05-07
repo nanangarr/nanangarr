@@ -26,14 +26,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Nanang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nanangarr&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nanangarr&layout=compact&theme=radical)
-
----
-
 ## 📌 Projects Highlight
 - 🎯 **AKPK System** – Internal government web app for competency needs analysis (Laravel + Blade)
 - 🧠 **AI Stroke Detection** – MRI-based stroke analysis UI using React & Next.js
