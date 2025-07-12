@@ -1,15 +1,21 @@
 # 👋 Hi there! I'm Nanang Ardiansyah
 
 🎓 I'm an Informatics student at Universitas Sebelas Maret  
-💡 Passionate about **Web Development**, **UI UX Design**, **Frontend Development** & **Data Analysis**  
+💡 Passionate about , **Frontend Developer** & **Fullstack Developer**  
 🚀 Currently learning and building real-world projects through internships and bootcamps  
 
 ---
 
+## 📃 Curriculum Vitae
+[![CV](https://img.shields.io/badge/CV-View-green?style=flat&logo=readthedocs&logoColor=white)]([https://drive.google.com/your-cv-link-here](https://drive.google.com/file/d/1zyXK_X5lvcl1IwghuTutFio9rO1JvpEt/view?usp=sharing))
+
+---
+
 ## 🌐 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nanang-ard/)    
-[Email me](mailto:ardiansyahnanang984@gmail.com),     
-[Portofolio](https://v3423064.mhs.d3tiuns.com/).
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nanang-ard/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ardiansyahnanang984@gmail.com)
+[![Portofolio](https://img.shields.io/badge/Portofolio-Website-blue?style=flat&logo=google-chrome&logoColor=white)](https://v3423064.mhs.d3tiuns.com/)
+
 ---
 
 ## 💻 Tech Stack
