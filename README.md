@@ -32,6 +32,18 @@
 
 ---
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=nanangarr&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=nanangarr&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nanangarr&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+---
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=nanangarr&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+
 ## 📌 Projects Highlight
 - 🎯 **AKPK System** – Internal government web app for competency needs analysis (Laravel + Blade)
 - 🧠 **AI Stroke Detection** – MRI-based stroke analysis UI using React & Next.js
