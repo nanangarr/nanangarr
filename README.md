@@ -1,4 +1,3 @@
-```md
 # Hi, I'm Nanang Ardiansyah 👋
 
 ### Full-Stack Web Developer
@@ -92,4 +91,3 @@ Two production platforms developed to help academics transform and promote resea
 ### Let's connect and build impactful digital products together 🚀
 
 </div>
-```
